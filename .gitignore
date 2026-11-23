@@ -1,0 +1,4 @@
+storage/*.log
+.idea/
+.vscode/
+.claude/

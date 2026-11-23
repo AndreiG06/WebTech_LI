@@ -1,0 +1,14 @@
+/* Небольшие дополнения к стилям Bootstrap */
+
+.book-card {
+    transition: box-shadow 0.2s;
+}
+
+.book-card:hover {
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+}
+
+.description {
+    white-space: normal;
+    line-height: 1.6;
+}
